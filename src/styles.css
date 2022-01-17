@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.addButton {
+  margin-left: 20px;
+}
+.deleteButton {
+  align-self: center !important;
+}
+.itemName {
+  align-self: center !important;
+}
+.itemName > h1 {
+  float: left !important;
+}
+.checkItem {
+  align-self: center !important;
+}
+.stackClass {
+  padding: 0px;
+}
+.containerHeader {
+  text-align: -webkit-center;
+}
+
+.Title { 
+  color: #000; 
+  font-family: 'Righteous', cursive; 
+  font-size: 65px; font-weight: normal; 
+  line-height: 60px; margin: 10px 0 20px; 
+  text-transform: uppercase; 
+  text-shadow: 2px 2px 0 #000;
+  margin: 10px 0 24px; text-align: center; 
+}
